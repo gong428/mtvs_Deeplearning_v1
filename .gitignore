@@ -1,0 +1,9 @@
+.env
+
+*.pth
+data_mini_test/
+data_mini/
+code/best_model_integrated_v1.pth
+code/best_model_integrated_v2.pth
+code/best_model_integrated_v3.pth
+code/best_model_integrated_v4.pth
